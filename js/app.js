@@ -1,5 +1,4 @@
 function comprar(){
-    //recupera tipo de ingresso e quantidade.
     let tipoIngresso = document.getElementById('tipo-ingresso').value;
     let quantidade = document.getElementById('qtd').value;  
     
